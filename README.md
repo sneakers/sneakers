@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # contact
 
 📱 discord: james#5280
+
+
 📧 email: jamesgh@riseup.net
 
 # projects
