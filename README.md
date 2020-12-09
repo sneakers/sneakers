@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## contact
+### contact
 
 📱 discord: james#5280
 
 
 📧 email: jamesgh@riseup.net
 
-## projects
+### projects
 
 Not currently working on any projects, contact me if you have an idea for one 😼
